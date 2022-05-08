@@ -512,4 +512,6 @@ footer {
     .contenedor5 nav ul li a {
       color: black; }
     .contenedor5 main {
-      width: 65%; } }
+      width: 65%; }
+    .contenedor5 footer {
+      margin-top: 50px; } }
