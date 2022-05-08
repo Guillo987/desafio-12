@@ -422,7 +422,8 @@ footer {
       width: 20rem;
       display: block;
       margin-top: 4rem;
-      margin-bottom: 4rem; }
+      margin-bottom: 4rem;
+      border-radius: 1.5rem; }
     .contenedor2 .contenedorFotoPsi {
       display: flex;
       justify-content: center;
