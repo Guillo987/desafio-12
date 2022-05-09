@@ -200,19 +200,22 @@ footer {
   .contenedor5 main {
     grid-area: main; }
     .contenedor5 main .secciones {
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       padding: 1.2rem;
       margin-top: 1.5rem; }
     .contenedor5 main .botonPais {
       margin-top: 2rem; }
     .contenedor5 main button {
       padding: 0.5rem;
-      margin-bottom: 0.8rem; }
+      margin-bottom: 0.8rem;
+      margin-top: 0.8rem; }
   .contenedor5 .genero {
     margin-top: 2rem; }
+  .contenedor5 .secciones {
+    font-weight: 300; }
   .contenedor5 footer {
     grid-area: footer;
-    margin-top: 50px; }
+    margin-top: 30px; }
 
 /*Media queries*/
 /*Media queries - Tablet (breakPoint min 600px)*/

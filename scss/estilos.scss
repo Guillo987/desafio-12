@@ -294,7 +294,7 @@ footer {
         grid-area: main;
 
         .secciones {
-            font-size: 1.2rem;
+            font-size: 1.1rem;
             padding: 1.2rem;
             margin-top: 1.5rem;
         }
@@ -306,6 +306,7 @@ footer {
         button {
             padding: 0.5rem;
             margin-bottom: 0.8rem;
+            margin-top: 0.8rem;
         }
 
     }
@@ -314,9 +315,13 @@ footer {
         margin-top: 2rem;
     }
 
+    .secciones {
+        font-weight: 300;
+    }
+
     footer {
         grid-area: footer;
-        margin-top: 50px
+        margin-top: 30px
     }
 
 }
