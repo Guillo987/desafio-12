@@ -388,6 +388,10 @@
         .nombreArt {
             @include art-faqDesktop;
         }
+
+        footer {
+            margin-top: 50px;
+        }
     }
 
 
