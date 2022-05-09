@@ -90,7 +90,7 @@ footer {
   height: 100vh;
   grid-template-areas: "header header" "nav nav" "saludoIndex saludoIndex" "footer footer";
   grid-template-columns: 100%;
-  grid-template-rows: auto min-content 69% min-content;
+  grid-template-rows: auto auto auto auto;
   background-image: linear-gradient(to right, #a3d5b1, whitesmoke);
   font-family: 'Roboto', sans-serif;
   line-height: 1.5; }
